@@ -1,0 +1,1394 @@
+{
+  "course": {
+    "name": "Information Technology Operations and Project Management",
+    "code": "MGMT8680",
+    "modules": [
+      {
+        "title": "Section 1",
+        "lessons": [
+          {
+            "title": "Lesson from Section 1",
+            "content": " A Tale of Two Projects is a tale of what it takes to turn around troubled projects . Jack walks into work at PintCo as a Director of Customer Relationship Management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 2",
+        "lessons": [
+          {
+            "title": "Lesson from Section 2",
+            "content": " Jack had only recently joined PintCo after being hired away from a chief competitor . He was still learning about some of the nuances of his current employer ."
+          }
+        ]
+      },
+      {
+        "title": "Section 3",
+        "lessons": [
+          {
+            "title": "Lesson from Section 3",
+            "content": " Jack was an experienced business leader and project manager . He had seen more than his fair share of ugly project projects . Brandon asked Jack to take over the Customer Master File project from Paul ."
+          }
+        ]
+      },
+      {
+        "title": "Section 4",
+        "lessons": [
+          {
+            "title": "Lesson from Section 4",
+            "content": " Jack took over the Customer Master File project, met with key project team members and conducted dozens of interviews with key stakeholders . He would be able to tell very quickly how this one would go based on the makeup of the project team ."
+          }
+        ]
+      },
+      {
+        "title": "Section 5",
+        "lessons": [
+          {
+            "title": "Lesson from Section 5",
+            "content": " Brandon, a 20-year veteran at PintCo, knew what was coming . He had seen too many projects start, flounder, and then fail at the company ."
+          }
+        ]
+      },
+      {
+        "title": "Section 6",
+        "lessons": [
+          {
+            "title": "Lesson from Section 6",
+            "content": " Jack's experience helped him to quickly identify a number of issues facing the project . Brandon says he's not sure how to help the project get around the world ."
+          }
+        ]
+      },
+      {
+        "title": "Section 7",
+        "lessons": [
+          {
+            "title": "Lesson from Section 7",
+            "content": " Jack explains the scope of the project is not well defined and the IT architects are sitting in their ivory towers and disagree with the project's direction . \u201cSteve from Marketing is trying to manipulate this project for his own political gain,\u201d Jack said ."
+          }
+        ]
+      },
+      {
+        "title": "Section 8",
+        "lessons": [
+          {
+            "title": "Lesson from Section 8",
+            "content": " Foundations for Success: 'If we don't change the situation this project will fail in glorious fashion' Brandon reluctantly agreed with Jack, and together they laid out several key changes ."
+          }
+        ]
+      },
+      {
+        "title": "Section 9",
+        "lessons": [
+          {
+            "title": "Lesson from Section 9",
+            "content": " \u201cWe're going to end the architectural holy wars by assigning key IT architects to the project on a full time basis. No more part-time participation.\u201d \u201cFourth, Brandon, you agree to be much more visible and an active participant to drive key decisions for the project\u201d"
+          }
+        ]
+      },
+      {
+        "title": "Section 10",
+        "lessons": [
+          {
+            "title": "Lesson from Section 10",
+            "content": " Jack knew that some of these changes would be unpopular, but without them the project would be doomed . He left Brandon's office with a sense of relief and apprehension . There was still a lot of hard work and heavy lifting yet to be done ."
+          }
+        ]
+      },
+      {
+        "title": "Section 11",
+        "lessons": [
+          {
+            "title": "Lesson from Section 11",
+            "content": " Brandon and Jack met in the break room as they were angling for their morning coffee refill . Brandon crowed that the Customer Master File project had been a resounding success ."
+          }
+        ]
+      },
+      {
+        "title": "Section 12",
+        "lessons": [
+          {
+            "title": "Lesson from Section 12",
+            "content": " Jack says Sharon told him she was ready to quit six months ago - and now she's happier than ever and up for promotion . \u201cI love it when a plan comes together,\u201d Jack said proudly as he walked away and took on his next big project ."
+          }
+        ]
+      },
+      {
+        "title": "Section 13",
+        "lessons": [
+          {
+            "title": "Lesson from Section 13",
+            "content": " IT organizations execute practices based on defined processes to ensure consistent service delivery . This course introduces structured IT operations through ITIL, the most commonly used system in IT management . Students will learn how to  implement IT projects in a well-organized manner ."
+          }
+        ]
+      },
+      {
+        "title": "Section 14",
+        "lessons": [
+          {
+            "title": "Lesson from Section 14",
+            "content": " Successful completion of this course will enable the student to: Describe the key knowledge areas of Project Management and the project management lifecycle . Describe how projects are defined by the three key constraints of scope, schedule and cost ."
+          }
+        ]
+      },
+      {
+        "title": "Section 15",
+        "lessons": [
+          {
+            "title": "Lesson from Section 15",
+            "content": " 5. y knowledge areas of Service Management and ITIL . Demonstrate the use of the Service Management process, life cycle and practices . Assess IT projects for risks and success factors . Identify and present best practices and recommendations to enhance IT projects and Service Management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 16",
+        "lessons": [
+          {
+            "title": "Lesson from Section 16",
+            "content": " Successful completion of the following units will enable the student to: 1.0 Managing Change 1.1 Compare Project Management and Service Management 2.0 Understanding Project Management . Apply the ethical and professional conduct of project management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 17",
+        "lessons": [
+          {
+            "title": "Lesson from Section 17",
+            "content": " Describe and apply the triple constraint of project management 4.0 Achieving Project Success . Present a project plan based on best practices . Describe the ethical and professional conduct of service management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 18",
+        "lessons": [
+          {
+            "title": "Lesson from Section 18",
+            "content": " The Four Dimensions of Service Management 7.0 explains the role of service management . Assign roles and responsibilities following service management best practices . Explain service value chain activities . Model service chain practices 9.0 Delivering General, Service and Delivering Services ."
+          }
+        ]
+      },
+      {
+        "title": "Section 19",
+        "lessons": [
+          {
+            "title": "Lesson from Section 19",
+            "content": " In this document, students will be able to compare general, service and technical management practices . Present a change management plan that includes project management and service management . Use this document to help students understand the human factors of organizational change ."
+          }
+        ]
+      },
+      {
+        "title": "Section 20",
+        "lessons": [
+          {
+            "title": "Lesson from Section 20",
+            "content": " OER - O\u2019Reilly Safari - A Guide to the Project Management Body of Knowledge ( PMBOK\u00ae Guide )\u2014 Sixth Edition (ENGLISH), by Project Management Institute, Publisher: Project ManagementInstitute, Release Date: September 2017 . OER: ITIL: Your essential guide for the ITIL 4 Foundation exam and beyond ."
+          }
+        ]
+      },
+      {
+        "title": "Section 21",
+        "lessons": [
+          {
+            "title": "Lesson from Section 21",
+            "content": " OER - O\u2019Reilly Safari - ITIL and Organizational Change, by Pamela Erskine, Publisher: IT Governance Publishing, Release Date: March 2013, \u00a0ISBN: 9781849284240240 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 22",
+        "lessons": [
+          {
+            "title": "Lesson from Section 22",
+            "content": " The student is required to meet the following evaluation criteria . Conestoga College is committed to providing academic accommodations for students with disabilities . The student must meet the criteria to successfully complete this course ."
+          }
+        ]
+      },
+      {
+        "title": "Section 23",
+        "lessons": [
+          {
+            "title": "Lesson from Section 23",
+            "content": " Use this information to help students with reading comprehension and vocabulary . Use the weekly Newsquiz to test your knowledge of topics covered in this article . At the bottom of the page, please submit a written version of this article for consideration ."
+          }
+        ]
+      },
+      {
+        "title": "Section 24",
+        "lessons": [
+          {
+            "title": "Lesson from Section 24",
+            "content": " Use a variety of thinking skills to anticipate and solve problems . Numeracy \u2022 Understanding \u2022 Understanding . Execute mathematical operations accurately and applying mathematical concepts and reasoning . Analyzing and using numerical data ."
+          }
+        ]
+      },
+      {
+        "title": "Section 25",
+        "lessons": [
+          {
+            "title": "Lesson from Section 25",
+            "content": " Information X X X management . Locate, select, organize, and document information . Computer literacy \u2022 Internet skills . Gathering and managing information . Show respect for the diverse opinions,  Show respect ."
+          }
+        ]
+      },
+      {
+        "title": "Section 26",
+        "lessons": [
+          {
+            "title": "Lesson from Section 26",
+            "content": " Learning Outcomes: Interact with others in groups or teams in ways that contribute resolution to effective working relationships and the achievement of goals . Manage the use of time and other resources to complete ."
+          }
+        ]
+      },
+      {
+        "title": "Section 27",
+        "lessons": [
+          {
+            "title": "Lesson from Section 27",
+            "content": " RETAIN THIS DOCUMENT FOR FUTURE EDUCATIONAL\\EMPLOYMENT USE Instructional Plan \u2013 MGMT8680 \u2013 S2020 School of Applied Computer Science and Information Technology Information Technology Infrastructure Program ."
+          }
+        ]
+      },
+      {
+        "title": "Section 28",
+        "lessons": [
+          {
+            "title": "Lesson from Section 28",
+            "content": " Program Handbook contains many policies that affect your studies at Conestoga . IT organizations execute practices based on defined processes to ensure consistent service delivery . Projects must be planned and implemented in a well-organized manner ."
+          }
+        ]
+      },
+      {
+        "title": "Section 29",
+        "lessons": [
+          {
+            "title": "Lesson from Section 29",
+            "content": " This course introduces structured IT operations through ITIL, the most commonly used system in IT management . Students learn how to manage an IT project from concept to conclusion using industry standard project management techniques ."
+          }
+        ]
+      },
+      {
+        "title": "Section 30",
+        "lessons": [
+          {
+            "title": "Lesson from Section 30",
+            "content": " Project Management (PM) and Service Management (SM) are both part of organizational change management . We will introduce to the overall concept of change management in Unit 1 . Unit 2.1 \u2013 Understanding Projec will help you understand PM and SM ."
+          }
+        ]
+      },
+      {
+        "title": "Section 31",
+        "lessons": [
+          {
+            "title": "Lesson from Section 31",
+            "content": " In Unit 2, you will be introduced to Project Management, it\u2019s (2.1) key concepts, (2) ethics and professional conduct . o Describe the key concepts of project management . o When you complete this unit, you'll be able to: Describe project management roles ."
+          }
+        ]
+      },
+      {
+        "title": "Section 32",
+        "lessons": [
+          {
+            "title": "Lesson from Section 32",
+            "content": " Unit 2.2 & 2.3 \u2013 Understanding Project Management . Describe the key concepts, ethics and professional conduct of project management. Describe project management roles ."
+          }
+        ]
+      },
+      {
+        "title": "Section 33",
+        "lessons": [
+          {
+            "title": "Lesson from Section 33",
+            "content": " Unit 3 \u2013 Project Management Practices \u2013 In Unit 3, we will explore and discuss PM practices, including the project lifecycle, best practices, project charters and the foundational concept of The Triple Constraint ."
+          }
+        ]
+      },
+      {
+        "title": "Section 34",
+        "lessons": [
+          {
+            "title": "Lesson from Section 34",
+            "content": " Unit 4 \u2013 Achieving Project Success \u2013 Discuss the key elements of project success and the best practices of project planning . Describe and apply the triple constraint of project management. elop and demonstrate the use of a project charter ."
+          }
+        ]
+      },
+      {
+        "title": "Section 35",
+        "lessons": [
+          {
+            "title": "Lesson from Section 35",
+            "content": " Unit 5 \u2013 Understanding Service Management . Describe the key elements of project success . Present a project plan based on best practices . Assigned: Project Plan Group Report Week Date ."
+          }
+        ]
+      },
+      {
+        "title": "Section 36",
+        "lessons": [
+          {
+            "title": "Lesson from Section 36",
+            "content": " In Unit 6.1 & 6.2 Service Management Practices, we will explore and discuss SM pr in Unit 6 . We will discuss and discuss the ethical and professional conduct of service management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 37",
+        "lessons": [
+          {
+            "title": "Lesson from Section 37",
+            "content": " ITIL Chapter 2 & 3 Assessment Assessment . Assign roles and responsibilities following service management best practices . Explain roles of service management, practices, relationships and SM relationships. Assign responsibilities following best practices following service manager best practices. Explain the roles of SM, various specific practices, SM relationships o"
+          }
+        ]
+      },
+      {
+        "title": "Section 38",
+        "lessons": [
+          {
+            "title": "Lesson from Section 38",
+            "content": " Units 6.3 & 6.4 Service Management Practices will explore and discuss SM practices, such as the roles of SM, SM practices and SM relationships . Assign roles and responsibilities following service management best practices ."
+          }
+        ]
+      },
+      {
+        "title": "Section 39",
+        "lessons": [
+          {
+            "title": "Lesson from Section 39",
+            "content": " Unit 7 \u2013 The Four Dimensions of Service Management Instructional Plan \u2013 MGMT8680 \u2013 S2020 . O In this unit, we will explore and discuss the four dimensions of SM \u2013 Organizations & People, Information & Technology, Partners & Suppliers, Value streams and processes ."
+          }
+        ]
+      },
+      {
+        "title": "Section 40",
+        "lessons": [
+          {
+            "title": "Lesson from Section 40",
+            "content": " Unit 8 \u2013 Service Value \u2013 Explore and discuss service value chains and service chain practices . Model the four dimensions of service management and explain service value chain activities . Unit 8: Explore and explore the concept of Service Value ."
+          }
+        ]
+      },
+      {
+        "title": "Section 41",
+        "lessons": [
+          {
+            "title": "Lesson from Section 41",
+            "content": " Units 9.1 & 9.2 Delivering Service Management . In Unit 9, we will discuss and explore general, service and technical management practices . When you have completed this unit, you will be able to compare and explain the difference between management practices and management practices."
+          }
+        ]
+      },
+      {
+        "title": "Section 42",
+        "lessons": [
+          {
+            "title": "Lesson from Section 42",
+            "content": " Units 9.3 & 9.4 Delivering Service Management . In Unit 9, we will discuss and explore general, service and technical management practices . When you have completed this unit, you will be able to compare general management practices."
+          }
+        ]
+      },
+      {
+        "title": "Section 43",
+        "lessons": [
+          {
+            "title": "Lesson from Section 43",
+            "content": " Unit 10: Managing Organizational Change . We will discuss and explore how to manage organization change . Unit 10 will focus on the integration of PM and SM practices ."
+          }
+        ]
+      },
+      {
+        "title": "Section 44",
+        "lessons": [
+          {
+            "title": "Lesson from Section 44",
+            "content": " Describe and discuss the human factors of organizational change . Present a change management plan that include both project management and service management . Assigned: None ."
+          }
+        ]
+      },
+      {
+        "title": "Section 45",
+        "lessons": [
+          {
+            "title": "Lesson from Section 45",
+            "content": " Final group presentations for our final assessment of the course . Self-Directed review of all course material required for final assessment . Final assessment of course will be completed by the end of the week ."
+          }
+        ]
+      },
+      {
+        "title": "Section 46",
+        "lessons": [
+          {
+            "title": "Lesson from Section 46",
+            "content": " ITIL 4 in 10 minutes A quickstart guide to the latest ITSM framework . The Instructional Plan is subject to change with advance notice ."
+          }
+        ]
+      },
+      {
+        "title": "Section 47",
+        "lessons": [
+          {
+            "title": "Lesson from Section 47",
+            "content": " ITIL is defined by the ITIL 4 Foundation book as: \u201cBest-practice guidance for IT service management.\u201d ITIL hasn't officially been referred to as the \u201cIT Infrastructure That begs the question, What is IT Service Management? Library\u201d since the publication of ITIL v3 in 2007 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 48",
+        "lessons": [
+          {
+            "title": "Lesson from Section 48",
+            "content": " ITIL 4 Glossary defines ITSM broadly as: A set of specialized organizational capabilities for enabling value for customers in the form of services . A service is defined as: \u201cA means of enabling value co-creation by facilitating outcomes that customers want to achieve\u201d"
+          }
+        ]
+      },
+      {
+        "title": "Section 49",
+        "lessons": [
+          {
+            "title": "Lesson from Section 49",
+            "content": " Between 2007 and 2018, ITIL v3 involved something called \u201cthe service lifecycle,\u201d which was comprised of 26 ITSM processes and four functions . The processes were grouped across five areas: \u2022 Service strategy \u2022 Service design \u2022 Service transition \u2022 Service operation \u2022 Continual service improv ."
+          }
+        ]
+      },
+      {
+        "title": "Section 50",
+        "lessons": [
+          {
+            "title": "Lesson from Section 50",
+            "content": " ITIL v3 (2011 Edition) has now been superseded by ITIL 4 and its new approach to service management . The key changes include: There\u2019s now an ITIL service value system and service value chain ."
+          }
+        ]
+      },
+      {
+        "title": "Section 51",
+        "lessons": [
+          {
+            "title": "Lesson from Section 51",
+            "content": " Understanding how ITIL 4 fits together starts with the service value . The ITIL service value system describes how all the components and system work together as a system to enable stakeholder value ."
+          }
+        ]
+      },
+      {
+        "title": "Section 52",
+        "lessons": [
+          {
+            "title": "Lesson from Section 52",
+            "content": " ITIL v3 service lifecycle can be replicated in the ITIL 4 service value chain as follows: Engage \u2013 Plan \u2013 Desig ."
+          }
+        ]
+      },
+      {
+        "title": "Section 53",
+        "lessons": [
+          {
+            "title": "Lesson from Section 53",
+            "content": " The ITIL service value system is \u201can operating model which and services\u201d outlines the key activities required to respond to demand and facilitate . The six activities with the ITIL Service value chain are: Plan 1. n and transition \u2013 Obtain/build \u2013 Design and transition - Deliver and support \u2013 Improve ."
+          }
+        ]
+      },
+      {
+        "title": "Section 54",
+        "lessons": [
+          {
+            "title": "Lesson from Section 54",
+            "content": " Design and transition\u2013the creation of new/changed Deliver & services . Obtain/build support services that meet stakeholder expectations across quality, cost, and time to market ."
+          }
+        ]
+      },
+      {
+        "title": "Section 55",
+        "lessons": [
+          {
+            "title": "Lesson from Section 55",
+            "content": " ITIL 4 Foundation book defines a management practice as \u201c\u2026a management practice\u2019s\u2019\u2026a Quick Management Toolkit\u2019. vice components, also ensuring that they\u2019re available when and where needed and that agreed specifications are met."
+          }
+        ]
+      },
+      {
+        "title": "Section 56",
+        "lessons": [
+          {
+            "title": "Lesson from Section 56",
+            "content": " ITIL is merely guidance and not an industry standard . It\u2019s intended for organizations to take and use as needed . While the below and other ITIL 4 practices might appear new, your organization w may not be new ."
+          }
+        ]
+      },
+      {
+        "title": "Section 57",
+        "lessons": [
+          {
+            "title": "Lesson from Section 57",
+            "content": " The full set of 34 ITIL 4 management practices are listed in the table on the next page . Service management practices have been adapted from technology management domains for service management purposes ."
+          }
+        ]
+      },
+      {
+        "title": "Section 58",
+        "lessons": [
+          {
+            "title": "Lesson from Section 58",
+            "content": " Set of 34 ITIL 4 management practices set of 34 management practices . IT as a result of IT as well as IT as an IT as part of the ITIL set of ITIL4 management practices."
+          }
+        ]
+      },
+      {
+        "title": "Section 59",
+        "lessons": [
+          {
+            "title": "Lesson from Section 59",
+            "content": " ITIL v3 processes are explained in ITIL 4 practices . Some of the most commonly adopted ITIL processes, now ITIL V4 practices, are explained here ."
+          }
+        ]
+      },
+      {
+        "title": "Section 60",
+        "lessons": [
+          {
+            "title": "Lesson from Section 60",
+            "content": " The following table is based on ITIL v3 process adoption levels . All practice purpose descriptions are taken from the ITIL 4 Foundation book ."
+          }
+        ]
+      },
+      {
+        "title": "Section 61",
+        "lessons": [
+          {
+            "title": "Lesson from Section 61",
+            "content": " Change control to maximize the number of successful changes by ensuring that risks have been properly assessed . Continual improvement to align practices and services with changing business needs . Deployment management to move new or changed hardware, software, documentation, processes, or any other component to live environments . Incident management to minimize the nega ."
+          }
+        ]
+      },
+      {
+        "title": "Section 62",
+        "lessons": [
+          {
+            "title": "Lesson from Section 62",
+            "content": " Knowledge management to maintain and improve the effective, efficient, and convenient use of information and knowledge across the organization . Monitoring and event management to systematically observe services and service components as well as record and report selected changes of state identified as events . Portfolio management to ensure that the organization has the right mix of programs, projects, products, products ."
+          }
+        ]
+      },
+      {
+        "title": "Section 63",
+        "lessons": [
+          {
+            "title": "Lesson from Section 63",
+            "content": " To reduce the likelihood and impact of incidents by identifying causes of incidents as well as managing workarounds and known errors . To provide a single source of consistent information on all services and service offerings and to ensure that it is available to the Service catalog management relevant audience ."
+          }
+        ]
+      },
+      {
+        "title": "Section 64",
+        "lessons": [
+          {
+            "title": "Lesson from Section 64",
+            "content": " Service desk To capture demand for incident resolution and service requests . It should also be the entry point and single point of contact for users . To support the organization\u2019s strategies and plans for service management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 65",
+        "lessons": [
+          {
+            "title": "Lesson from Section 65",
+            "content": " ITIL best practice has already been adopted by many organizations . ITIL aims to achieve improved IT service delivery and business operations as well as better outcomes . Service request management to support quality of a service by handling all pre-defined, user-initiated service requests ."
+          }
+        ]
+      },
+      {
+        "title": "Section 66",
+        "lessons": [
+          {
+            "title": "Lesson from Section 66",
+            "content": " ServiceNow ITSM provides IT service delivery and support capabilities for tens of thousands of companies worldwide . Corporate IT organizations in pursuit of best practice IT automation look to frameworks like ITIL for guidance on improving business performance ."
+          }
+        ]
+      },
+      {
+        "title": "Section 67",
+        "lessons": [
+          {
+            "title": "Lesson from Section 67",
+            "content": " ServiceNow, the ServiceNow logo, Now, Now Platform, and other ServiceNow marks are trademarks and/or registered trademarks of ServiceNow . ServiceNow is an innovative ITSM solution ."
+          }
+        ]
+      },
+      {
+        "title": "Section 68",
+        "lessons": [
+          {
+            "title": "Lesson from Section 68",
+            "content": " This Code of Ethics and Professional Conduct describes the expectations that we have of ourselves and our fellow practitioners in the global project management community . It articulates the ideals to which we aspire as well as the behaviors that are manda ."
+          }
+        ]
+      },
+      {
+        "title": "Section 69",
+        "lessons": [
+          {
+            "title": "Lesson from Section 69",
+            "content": " The purpose of this Code is to instill confidence in the project management profession and to help an individual become a better practitioner. We do this by establishing a profession-wide understanding of appropriate behavior. tory in our professional and volunteer roles."
+          }
+        ]
+      },
+      {
+        "title": "Section 70",
+        "lessons": [
+          {
+            "title": "Lesson from Section 70",
+            "content": " We also believe that this Code will assist us in making wise decisions, particularly when faced with difficult situations where we may be asked to compromise our integrity or our values . We hope this Code of Ethics will serve as a catalyst for others to study, deliberate, and write about ethics and values ."
+          }
+        ]
+      },
+      {
+        "title": "Section 71",
+        "lessons": [
+          {
+            "title": "Lesson from Section 71",
+            "content": " The Code of Ethics and Professional Conduct applies to: 1.2.1 All PMI members . n.2 Individuals who are not members of PMI but meet one or more of the following criteria: .1 Non-members who hold a PMI certification .2 Non-member members who serve PMI in a volunteer capacity ."
+          }
+        ]
+      },
+      {
+        "title": "Section 72",
+        "lessons": [
+          {
+            "title": "Lesson from Section 72",
+            "content": " PMI also had separate ethics standards for members and for credentialed individuals . Stakeholders who contributed input to develop this Code concluded that having multiple codes was undesirable . Everyone should be held to one high standard ."
+          }
+        ]
+      },
+      {
+        "title": "Section 73",
+        "lessons": [
+          {
+            "title": "Lesson from Section 73",
+            "content": " The Code of Ethics and Professional Conduct is divided into sections that contain standards of conduct which are aligned with the four values that were identified as most important to the project management community . Some sections of the Code include comments . Comments are not mandatory ."
+          }
+        ]
+      },
+      {
+        "title": "Section 74",
+        "lessons": [
+          {
+            "title": "Lesson from Section 74",
+            "content": " A glossary defines words and phrases used in the Code . For convenience, those terms defined in the glossary are underlined in the text ."
+          }
+        ]
+      },
+      {
+        "title": "Section 75",
+        "lessons": [
+          {
+            "title": "Lesson from Section 75",
+            "content": " The Code affirms responsibility, respect, fairness, and honesty as its foundation . The aspirational standards describe the conduct that we strive to uphold as practitioners ."
+          }
+        ]
+      },
+      {
+        "title": "Section 76",
+        "lessons": [
+          {
+            "title": "Lesson from Section 76",
+            "content": " The mandatory standards establish firm requirements, and in some cases, limit or prohibit practitioner behavior . Practitioners who do not conduct themselves in accordance with these standards will be subject to disciplinary procedures before PMI\u2019s Ethics Review Committee . The conduct covered under the aspirational standards and the mandatory standards are not mutually exclusive ."
+          }
+        ]
+      },
+      {
+        "title": "Section 77",
+        "lessons": [
+          {
+            "title": "Lesson from Section 77",
+            "content": " Responsibility is our duty to take ownership for the decisions we make, the actions we take or fail to take, and the consequences that result . One specific act or omission could violate both aspirational and mandatory standards ."
+          }
+        ]
+      },
+      {
+        "title": "Section 78",
+        "lessons": [
+          {
+            "title": "Lesson from Section 78",
+            "content": " We accept only those assignments that are consistent with our background, experience, skills, and qualifications . Comment: We ensure that key stakeholders receive timely and complete information regarding the gaps in our qualifications so that they may make informed decisions ."
+          }
+        ]
+      },
+      {
+        "title": "Section 79",
+        "lessons": [
+          {
+            "title": "Lesson from Section 79",
+            "content": " When we discover errors or omissions caused by others, we communicate them to the appropriate body as soon they are discovered . 2.3 We fulfill commitments that we undertake \u2013 we do what we say we will do. 2.4 We take ownership and make corrections promptly ."
+          }
+        ]
+      },
+      {
+        "title": "Section 80",
+        "lessons": [
+          {
+            "title": "Lesson from Section 80",
+            "content": " Project Management Professionals must uphold policies, rules, regulations and laws that govern our work, professional, a. ny resulting consequences . We must protect proprietary or confidential information that has been entrusted to us ."
+          }
+        ]
+      },
+      {
+        "title": "Section 81",
+        "lessons": [
+          {
+            "title": "Lesson from Section 81",
+            "content": " We report unethical or illegal conduct to appropriate management and, if necessary, to those affected by the conduct . We do not engage in any illegal behavior, including but not limited to: theft, fraud, corruption, embezzlement, or bribery ."
+          }
+        ]
+      },
+      {
+        "title": "Section 82",
+        "lessons": [
+          {
+            "title": "Lesson from Section 82",
+            "content": " As practitioners and representatives of our profession, we do not condone or assist others in engaging in illegal behavior . Since recent corporate scandals, many organizations have adopted policies to protect employees who reveal the truth about illegal or unethical activities ."
+          }
+        ]
+      },
+      {
+        "title": "Section 83",
+        "lessons": [
+          {
+            "title": "Lesson from Section 83",
+            "content": " PMI only file ethics complaints when they are substantiated by facts . PMI cooperate with PMI concerning ethics violations and the collection of related information whether we are a complainant or a respondent ."
+          }
+        ]
+      },
+      {
+        "title": "Section 84",
+        "lessons": [
+          {
+            "title": "Lesson from Section 84",
+            "content": " Respect is our duty to show a high regard for ourselves, others, and resources entrusted to us . We pursue disciplinary action against individuals who knowingly make false allegations against others ."
+          }
+        ]
+      },
+      {
+        "title": "Section 85",
+        "lessons": [
+          {
+            "title": "Lesson from Section 85",
+            "content": " An environment of respect engenders trust, confidence, and performance excellence by fostering mutual cooperation . As practitioners in the global project management community: 3.2 Respect: Aspirational Standards ."
+          }
+        ]
+      },
+      {
+        "title": "Section 86",
+        "lessons": [
+          {
+            "title": "Lesson from Section 86",
+            "content": " An implication of these provisions is that we avoid engaging in gossip and avoid making negative remarks to undermine another person\u2019s reputation . We also have a duty under this Code to confront others who engage in these types of behaviors ."
+          }
+        ]
+      },
+      {
+        "title": "Section 87",
+        "lessons": [
+          {
+            "title": "Lesson from Section 87",
+            "content": " 3.3 Respect: Mandatory Standards . We do not exercise the power of our expertise or position to influence the decisions or actions of others in order to benefit personally at their expense . We respect the property rights of others ."
+          }
+        ]
+      },
+      {
+        "title": "Section 88",
+        "lessons": [
+          {
+            "title": "Lesson from Section 88",
+            "content": " 4 of 84.2 Fairness is our duty to make decisions and act impartially and objectively . Our conduct must be free from competing self interest, prejudice, and favoritism . We demonstrate transparency in our decision-making process ."
+          }
+        ]
+      },
+      {
+        "title": "Section 89",
+        "lessons": [
+          {
+            "title": "Lesson from Section 89",
+            "content": " One of the biggest problems practitioners report is not recognizing when we have conflicted loyalties . We as practitioners must proactively search for potential conflicts and help each other by highlighting each other\u2019s potential conflicts of interest ."
+          }
+        ]
+      },
+      {
+        "title": "Section 90",
+        "lessons": [
+          {
+            "title": "Lesson from Section 90",
+            "content": " Situa: We make opportunities equally available to qualified candidates . We provide equal access to information to those who are authorized to have that information . We require the following of ourselves and our fellow practitioners: Conflict of Interest Situa ."
+          }
+        ]
+      },
+      {
+        "title": "Section 91",
+        "lessons": [
+          {
+            "title": "Lesson from Section 91",
+            "content": " We proactively and fully disclose any real or potential conflicts of interest to the appropriate stakeholders . We refrain from engaging in the decision-making process or otherwise attempting to influence outcomes, unless or until we have made full disclosure to the affected stakeholders ."
+          }
+        ]
+      },
+      {
+        "title": "Section 92",
+        "lessons": [
+          {
+            "title": "Lesson from Section 92",
+            "content": " t of interest occurs when we are in a position to influence decisions or other outcomes on behalf of one party when such decisions or outcomes could affect one or more other parties with which we have competing loyalties . For example, when acting as an employee, we have a duty of loyalty to our employer . We must recognize these divergent interests and refrain from influencing decisions ."
+          }
+        ]
+      },
+      {
+        "title": "Section 93",
+        "lessons": [
+          {
+            "title": "Lesson from Section 93",
+            "content": " Even if we believe that we can set aside our divided loyalties and make decisions impartially, we treat the appearance of a conflict of interest as a conflict . We do not hire or fire, reward or punish, or award or deny contracts based on personal considerations ."
+          }
+        ]
+      },
+      {
+        "title": "Section 94",
+        "lessons": [
+          {
+            "title": "Lesson from Section 94",
+            "content": " Honesty is our duty to understand the truth and act in a truthful manner . We apply the rules of the organization (employer, Project Management Institute, or other group) without favoritism or prejudice. nst others based on, but not limited to, gender, race, age, religion, disability, nationality, or sexual orientation ."
+          }
+        ]
+      },
+      {
+        "title": "Section 95",
+        "lessons": [
+          {
+            "title": "Lesson from Section 95",
+            "content": " Management community: We earnestly seek the truth. We are truthful in our communications and in our conduct. We provide accurate information in a timely manner. This includes having the courage to share bad news even when it may be poorly received."
+          }
+        ]
+      },
+      {
+        "title": "Section 96",
+        "lessons": [
+          {
+            "title": "Lesson from Section 96",
+            "content": " We make commitments and promises, implied or explicit, in good faith . When outcomes are positive, we avoid taking credit for the achievements of others . We strive to create an environment in which others feel safe to tell the truth ."
+          }
+        ]
+      },
+      {
+        "title": "Section 97",
+        "lessons": [
+          {
+            "title": "Lesson from Section 97",
+            "content": " We do not engage in or condone behavior that is designed to deceive others, including but not limited to, making misleading or false statements, stating half-truths, providing information out of context or withholding information that, if known, would render our statements as misleading or incomplete . 5.3.2: We engage in dishonest behavior with the intention of personal gain or at the expense of another ."
+          }
+        ]
+      },
+      {
+        "title": "Section 98",
+        "lessons": [
+          {
+            "title": "Lesson from Section 98",
+            "content": " Half-truths and non-disclosures intended to mislead stakeholders are as unprofessional as affirmatively making misrepresentations . PMI\u2019s vision of project management as an independent profession drove our early work in ethics ."
+          }
+        ]
+      },
+      {
+        "title": "Section 99",
+        "lessons": [
+          {
+            "title": "Lesson from Section 99",
+            "content": " Report was first documented PMI discussion of ethics for the project management profession . Report was submitted to the PMI Board of Directors in August 1982 . In the late 1980s, this standard evolved to become the Ethics Standard for the Project Management Professional ."
+          }
+        ]
+      },
+      {
+        "title": "Section 100",
+        "lessons": [
+          {
+            "title": "Lesson from Section 100",
+            "content": " The PMI Board formed the Ethics Policy Documentation Committee to draft and publish an ethics standard for PMI\u2019s membership . The Board approved the new Member Code of Ethics in October 1998 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 101",
+        "lessons": [
+          {
+            "title": "Lesson from Section 101",
+            "content": " PMI membership has grown significantly. A great deal of growth has also occurred in regions outside North America . Globalization has brought economies closer together but has caused a realization that our practice of ethics may differ from culture to culture ."
+          }
+        ]
+      },
+      {
+        "title": "Section 102",
+        "lessons": [
+          {
+            "title": "Lesson from Section 102",
+            "content": " The PMI Board commissioned the Ethics Standards Review Committee [ESRC] to review the codes of ethics . The ESRC developed processes that would encourage active participation by the global project management community ."
+          }
+        ]
+      },
+      {
+        "title": "Section 103",
+        "lessons": [
+          {
+            "title": "Lesson from Section 103",
+            "content": " The PMI Code of Ethics and Professional Conduct was approved by the PMI Board of Directors in October 2006 . The first step by the Ethics Standa was the first step ."
+          }
+        ]
+      },
+      {
+        "title": "Section 104",
+        "lessons": [
+          {
+            "title": "Lesson from Section 104",
+            "content": " The team analyzed the ethics codes of 24 non-profit organizations . The goal was to understand the ethical issues facing the project management community . The team developed the ethics code to try and understand the values and viewpoints of practitioners ."
+          }
+        ]
+      },
+      {
+        "title": "Section 105",
+        "lessons": [
+          {
+            "title": "Lesson from Section 105",
+            "content": " ESDC developed the exposure draft of the PMI Code of Ethics and Professional Conduct . The exposure draft was circulated to the global project management community for comment . ESDC conducted extensive research conducted by the ESDC ."
+          }
+        ]
+      },
+      {
+        "title": "Section 106",
+        "lessons": [
+          {
+            "title": "Lesson from Section 106",
+            "content": " tandards Institute developed a Code of Ethics and Professional Conduct . Processes were used for 7 of 8PMI technical standard development projects and were deemed to represent the best practices for obtaining and adjudicating stakeholder feedback ."
+          }
+        ]
+      },
+      {
+        "title": "Section 107",
+        "lessons": [
+          {
+            "title": "Lesson from Section 107",
+            "content": " ESDC learned that as practitioners of project management, our community takes its commitment to ethics very seriously . Violations of the PMI Code of Ethics and Professional Conduct may result in sanctions by PMI under the ethics Case Procedures ."
+          }
+        ]
+      },
+      {
+        "title": "Section 108",
+        "lessons": [
+          {
+            "title": "Lesson from Section 108",
+            "content": " Conflict of Interest is when a practitioner of project management is faced with making a decision or doing some act that will benefit the practitioner or another person or organization to which the practitioner owes a duty of loyalty and at the same time will harm another person . Conflict of interest is a decision that results in physical harm or creates intense feelings of fear, humiliation, manipulation, or exploitation in another person."
+          }
+        ]
+      },
+      {
+        "title": "Section 109",
+        "lessons": [
+          {
+            "title": "Lesson from Section 109",
+            "content": " A person\u2019s responsibility, legal or moral, to promote the best interest of an organization or other person with whom they are affiliated . The only way practitioners can resolve conflicting duties is to disclose the conflict ."
+          }
+        ]
+      },
+      {
+        "title": "Section 110",
+        "lessons": [
+          {
+            "title": "Lesson from Section 110",
+            "content": " A person who has joined the Project Management Institute as a member . PMI-Sponsored Activities include participation on a PMI Member Advisory Group, PMI standard development team, or another PMI working group ."
+          }
+        ]
+      },
+      {
+        "title": "Section 111",
+        "lessons": [
+          {
+            "title": "Lesson from Section 111",
+            "content": " Project Management Integration - Unit 3.1 \u2013 Project Management Practices \u2022 Key Concepts \u2022 In Unit 3 you will learn how to use the skills of a project, portfolio, or program, as part of project management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 112",
+        "lessons": [
+          {
+            "title": "Lesson from Section 112",
+            "content": " Unit 3 - Topics 1.4 Project Integration Management and Managing the Triple Constraint (3.2) Describe project integration and project best practices . Describe, develop and demonstrate the use of a project charter ."
+          }
+        ]
+      },
+      {
+        "title": "Section 113",
+        "lessons": [
+          {
+            "title": "Lesson from Section 113",
+            "content": " Project Integration Management includes the processes and activities to identify, define, combine, unify, and coordinate the various processes and project management activities within the Project Management Process Group ."
+          }
+        ]
+      },
+      {
+        "title": "Section 114",
+        "lessons": [
+          {
+            "title": "Lesson from Section 114",
+            "content": " Project Management Integration is a key project manager function . This is the core of project management \u2013 understanding, bringing together, directing and combining all the elements of the project . This work is typically iterative within the project and the project process groups ."
+          }
+        ]
+      },
+      {
+        "title": "Section 115",
+        "lessons": [
+          {
+            "title": "Lesson from Section 115",
+            "content": " Ensuring the creation and the use of the appropriate knowledge to and from the Ensuring Project project as necessary . Managing the performance and changes of the activities in the project management Managing Integration plan . Ensuring cycle; and the benefits management plan are aligned; Ensuring cycles and benefits management plans are aligned. Ensuring due dates of the product, service, or result ."
+          }
+        ]
+      },
+      {
+        "title": "Section 116",
+        "lessons": [
+          {
+            "title": "Lesson from Section 116",
+            "content": " Measuring and monitoring the project's progress and taking appropriate action to monitoring meet project objectives . Collecting data on the results achieved, analyzing the data to obtain information, Collecting and communicating this information to relevant stakeholders . Completing all the work of the project and formally closing each phase, contract, Completing and the project as a whole ."
+          }
+        ]
+      },
+      {
+        "title": "Section 117",
+        "lessons": [
+          {
+            "title": "Lesson from Section 117",
+            "content": " Project Integration Management - Prof. Sean Yo MGMT-8680 11Project Integration Management . Manage Project Knowledge \u2022 Monitor and Control Project Work \u2022 Perform Integration Change Control . Perform integration change control \u2022 Perform integration Change Control \u2022 Close Project or Phase"
+          }
+        ]
+      },
+      {
+        "title": "Section 118",
+        "lessons": [
+          {
+            "title": "Lesson from Section 118",
+            "content": " The approved business case, or similar, is the business document most commonly used to develop a project . It is the document that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities ."
+          }
+        ]
+      },
+      {
+        "title": "Section 119",
+        "lessons": [
+          {
+            "title": "Lesson from Section 119",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 18Expert Judgement Project Data Gathering Charter Tools and Techniques Interpersonal and Team Skills Meetings ."
+          }
+        ]
+      },
+      {
+        "title": "Section 120",
+        "lessons": [
+          {
+            "title": "Lesson from Section 120",
+            "content": " High-level project project description, Summary milestone, and key schedule deliverables Charter Outputs Preapproved financial Project approval . Assigned project name and authority of manager, the sponsor or other . Project exit responsibility and person(s) authorizing authority level the project charter ."
+          }
+        ]
+      },
+      {
+        "title": "Section 121",
+        "lessons": [
+          {
+            "title": "Lesson from Section 121",
+            "content": " Project Plan Scope can be DETAILED or AIM FOR SUFFICIENCY \u2013 BE ROBUST, IT is BENEFICIAL TO HAVE BASELINE SUMMARY NOT COMPLETE PLANNING ."
+          }
+        ]
+      },
+      {
+        "title": "Section 122",
+        "lessons": [
+          {
+            "title": "Lesson from Section 122",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 27Project Plan Outputs Project \u2022 This is the key output Management \u2022 Can include a wide range of subsidiary plans Plan \u2022 Baselines Other Outputs \u2022 Additional Components Scope Requirements Schedule management management management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 124",
+        "lessons": [
+          {
+            "title": "Lesson from Section 124",
+            "content": " 7. Communications management plan 7. Cost forecasts 25. Resource calendars 8. Risk management plan 8 . Risk register 10. Risk report 11. Change management plan 11. Configuration management plan 12. Physical resource assignments 30."
+          }
+        ]
+      },
+      {
+        "title": "Section 125",
+        "lessons": [
+          {
+            "title": "Lesson from Section 125",
+            "content": " Project management is the process of leading and performing the work defined in the project management plan and implementinin . Project team assignments direct and manage project work Direct and Manage Project Work ."
+          }
+        ]
+      },
+      {
+        "title": "Section 126",
+        "lessons": [
+          {
+            "title": "Lesson from Section 126",
+            "content": " Direct & Manage Project Work IT Operations & Project Management -Prof. Sean Yo 34Project Documents Direct and Approved Change Requests Manage . g approved changes to achieve project's objectives ."
+          }
+        ]
+      },
+      {
+        "title": "Section 127",
+        "lessons": [
+          {
+            "title": "Lesson from Section 127",
+            "content": " Project Work Information System Tools and Techniques Meetings IT Operations & Project Management -Prof. Sean Yo MGMT-8680 37Direct and Manage Project Work Outputs Work Change Deliverables Performance Issue Log Request Data Project Project Plan Document OPA Updates Updates Updates ."
+          }
+        ]
+      },
+      {
+        "title": "Section 128",
+        "lessons": [
+          {
+            "title": "Lesson from Section 128",
+            "content": " IT Operations & Project Management -Prof. Sean Yo 42Project Management Plan Project Documents Manage Project Deliverables Knowledge Inputs and EFFs OPAs Expert Judgement . Flow Chart Flow Chart IT Operations and Project Management : Project Flow Chart ."
+          }
+        ]
+      },
+      {
+        "title": "Section 129",
+        "lessons": [
+          {
+            "title": "Lesson from Section 129",
+            "content": " Monitor and Control Project Work The process of tracking, reviewing, and reporting overall progress to meet the performance objectives defined in the project management plan ."
+          }
+        ]
+      },
+      {
+        "title": "Section 130",
+        "lessons": [
+          {
+            "title": "Lesson from Section 130",
+            "content": " Project Management -Prof. Sean Yo MGMT-8680 51Monitor and Control Project Work Outputs Work performance Change requests Project Plan Project Document reports Updates Updates Updates Perform Integration Change Control Perform Integrated Change Control Flo ."
+          }
+        ]
+      },
+      {
+        "title": "Section 131",
+        "lessons": [
+          {
+            "title": "Lesson from Section 131",
+            "content": " w Chart IT Operations & Project Management -Prof. Sean Yo 56 Project Management Plan Project Documents Perform Integration Work Performance Reports Change Change Requests Control Inputs Control inputs EFFs OPAs Expert Judgement Perform Change Control Tools Integration Change Data Analysis Control Tools and Decision Making Techniques Meetings ."
+          }
+        ]
+      },
+      {
+        "title": "Section 132",
+        "lessons": [
+          {
+            "title": "Lesson from Section 132",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 60Close Project or Phase . This group is responsible for . Reviewing change requests . Assess the impact of potential changes and review alternatives . Approving, rejecting or deferring change requests is a key decision ."
+          }
+        ]
+      },
+      {
+        "title": "Section 133",
+        "lessons": [
+          {
+            "title": "Lesson from Section 133",
+            "content": " Close Project or Phase Flow Chart IT Operations & Project Management -Prof. Sean Yo 64 . Closing Actions & Activities: Confirming delivery and documents and deliverables are Ensuring that all costs are Dealing with excess project formal acceptance of Closing project accounts ."
+          }
+        ]
+      },
+      {
+        "title": "Section 134",
+        "lessons": [
+          {
+            "title": "Lesson from Section 134",
+            "content": " Collecting project or Audit project success or failure, acceptance of the seller's work, results, and resources . Confirming the formal . Updating records to reflect final equipment, and other reports as required by future use ."
+          }
+        ]
+      },
+      {
+        "title": "Section 135",
+        "lessons": [
+          {
+            "title": "Lesson from Section 135",
+            "content": " Identify lessons learned, transfer, future use by the organization, and sending them satisfaction operations. operations. phase or to production and/or organization. to the appropriate organizational unit."
+          }
+        ]
+      },
+      {
+        "title": "Section 136",
+        "lessons": [
+          {
+            "title": "Lesson from Section 136",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 67Success vs. Failure: Be honest and authentic in measuring success vs. failure . Strive to embrace failure as a learning opportunity ."
+          }
+        ]
+      },
+      {
+        "title": "Section 137",
+        "lessons": [
+          {
+            "title": "Lesson from Section 137",
+            "content": " The verification project or phase evidence that the completion and actual milestone delivery criteria were met . objectives, the criteria used used to evaluate the project and the scope, and product quality, the verification project . dates, and reasons for variances. dates ."
+          }
+        ]
+      },
+      {
+        "title": "Section 138",
+        "lessons": [
+          {
+            "title": "Lesson from Section 138",
+            "content": " MGMT -8680 Unit 4 \u2013 Achieving Project Success \u2022 Key Concepts \u2022 In Unit 4 you will be introduced to Managing: Project Quality, Project Res and Project Quality ."
+          }
+        ]
+      },
+      {
+        "title": "Section 139",
+        "lessons": [
+          {
+            "title": "Lesson from Section 139",
+            "content": " Unit 4 - Topics 1: Managing Project Quality, Managing Project Resources, Project Risk and Project Communications . Unit 4: Manage Quality, Present a project plan based on best practices . PMBOK Guide: Part 1.8 Project Quality Management Intro . Part 1: Managing Quality, Managing Resources and Managing Project Communications Resources ."
+          }
+        ]
+      },
+      {
+        "title": "Section 140",
+        "lessons": [
+          {
+            "title": "Lesson from Section 140",
+            "content": " Project Quality Management includes the processes for incorporating the organization's quality policy regarding planning, managing, and controlling project and product quality requirements in order to meet stakeholders\u2019 objectives . t 1.11 Project Risk Management: Identify Risks . 1.10 Project Communications Management: Manage Communications ."
+          }
+        ]
+      },
+      {
+        "title": "Section 141",
+        "lessons": [
+          {
+            "title": "Lesson from Section 141",
+            "content": " Project Quality Management. supports continuous process improvement activities as undertaken on behalf of the performing organization . Project Quality is Universal Quality. Supports Continuous Process Improvement activities . Assurance Quality. Tailoring Policy. Compliance & St."
+          }
+        ]
+      },
+      {
+        "title": "Section 142",
+        "lessons": [
+          {
+            "title": "Lesson from Section 142",
+            "content": " The process of translating the quality management plan into executable quality activities that incorporate the organization's quality policies into the project . Manage Quality Flow Chart is IT Operations & Project Management -Prof. Sean Yo MGMT-8680 11 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 143",
+        "lessons": [
+          {
+            "title": "Lesson from Section 143",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 17 . Data Gathering Data Analysis Manage Data Representation Decision Making Quality Tools and Techniques Audits Design For X Quality Improvement Problem Solving Methods ."
+          }
+        ]
+      },
+      {
+        "title": "Section 144",
+        "lessons": [
+          {
+            "title": "Lesson from Section 144",
+            "content": " Project Resource Management Unit 4.2 20 . Processes to identify, acquire, and manage the resources needed for the successful completion of the project . These processes help ensure that the right resources will be available at the right time and place ."
+          }
+        ]
+      },
+      {
+        "title": "Section 145",
+        "lessons": [
+          {
+            "title": "Lesson from Section 145",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 23Project Resources Tailoring Diversities PHYSICAL INDUSTRY SPECIFIC ACQUISITION OF MANAGEMENT OF LIFE CYCLE LOCATION RESOURCES ."
+          }
+        ]
+      },
+      {
+        "title": "Section 146",
+        "lessons": [
+          {
+            "title": "Lesson from Section 146",
+            "content": " The key benefit of this process is that it influences team behavior, manages conflict, and resolves issues . Manage Team is tracking team member performance, providing feedback, resolving issues, and managing team changes ."
+          }
+        ]
+      },
+      {
+        "title": "Section 147",
+        "lessons": [
+          {
+            "title": "Lesson from Section 147",
+            "content": " Interpersonal & Team Skills Manage Team Project Management Tools and Information System Techniques Meetings IT Operations & Project Management -Prof. Sean Yo MGMT-8680 39 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 148",
+        "lessons": [
+          {
+            "title": "Lesson from Section 148",
+            "content": " The processes of conducting risk management planning, identification, analysis, and response planning, response implementation, and monitoring risk on a project . Project Risk Management Unit 4.3 42Project Risk Management . s Project Documents ."
+          }
+        ]
+      },
+      {
+        "title": "Section 149",
+        "lessons": [
+          {
+            "title": "Lesson from Section 149",
+            "content": " The process of identifying individual project risks as well as sources of overall project risk, and documenting their characteristics Identify Risk Flow Chart IT Operations & Project Management -Prof. Sean Yo MGMT-8680 47 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 150",
+        "lessons": [
+          {
+            "title": "Lesson from Section 150",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 53SWOT Analysis \u2022 Strength \u2022 Weakness \u2022 Opportunities \u2022 Threats . Identify Risks Data Analysis Tools and Techniques Interpersonal and Team Skills PESTLE Prompt List TECOP VUCA Meetings ."
+          }
+        ]
+      },
+      {
+        "title": "Section 151",
+        "lessons": [
+          {
+            "title": "Lesson from Section 151",
+            "content": " Information needs of the project and its stakeholders are met through development of artifacts and implementation of activities designed to achieve effective information exchange Communication Mechanism Communication Dimensions Project Communication Key Concepts 5Cs of Communication Communication Skills IT Operations & Project Management ."
+          }
+        ]
+      },
+      {
+        "title": "Section 152",
+        "lessons": [
+          {
+            "title": "Lesson from Section 152",
+            "content": " The process of ensuring timely and appropriate collection, creation, distribution, storage, retrieval, management, monitoring, and the ultimate disposition of project information . IT Operations & Project Management -Prof. Sean Yo MGMT-8680 61 ."
+          }
+        ]
+      },
+      {
+        "title": "Section 153",
+        "lessons": [
+          {
+            "title": "Lesson from Section 153",
+            "content": " Facilitation Listening Project Management Plan Project Documents Manage Communications Work Performance Reports . Manage Communication Skills Communications Tools and Project Management Information System Techniques Project Reporting Interpersonal and Team Skills ."
+          }
+        ]
+      },
+      {
+        "title": "Section 154",
+        "lessons": [
+          {
+            "title": "Lesson from Section 154",
+            "content": " Project Stakeholder Management - Prof. Sean Yo MGMT-8680 69 . Project Document Updates OPA Updates IT Operations & Project Management . The processes required to identify people, groups, or organizations that could impact or be impacted by the project ."
+          }
+        ]
+      },
+      {
+        "title": "Section 155",
+        "lessons": [
+          {
+            "title": "Lesson from Section 155",
+            "content": " IT Operations & Project Management -Prof. Sean Yo MGMT-8680 73Stakeholder Management Tailoring . n Stakeholder Identification Stakeholders Engagement Project Communication Key Concepts and Key Concepts . Unit 4 - Questions?"
+          }
+        ]
+      }
+    ]
+  }
+}
