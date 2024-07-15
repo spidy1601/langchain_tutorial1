@@ -27,7 +27,7 @@ LANGCHAIN_PROJECT="Conestoga_FAQ"
 
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
-db3 = Chroma(persist_directory="./chroma_db",embedding_function=embeddings)
+db3 = Chroma(persist_directory="./chroma_db copy",embedding_function=embeddings)
 
 metadata_field_info = [
     AttributeInfo(
@@ -50,10 +50,10 @@ retriever = SelfQueryRetriever.from_llm(
     db3,
     document_content_description,
     metadata_field_info,
-    search_kwargs={"k": 5},
+    search_kwargs={"k": 10},
 )
 
-st.title("Course Transcription AI ChatBot")
+st.title("Course GPT")
 
 prompt = ChatPromptTemplate.from_template(
     """
@@ -75,14 +75,18 @@ prompt =st.text_input("Input your prompt here")
 
 if prompt:
     start= time.process_time()
-    response = retriever_chain.invoke({"input":prompt})
-    print("Response Time: ",time.process_time()-start)
-    st.write(response['answer'])
+    try:
+        response = retriever_chain.invoke({"input":prompt})
+        print("Response Time: ",time.process_time()-start)
+        st.write(response['answer'])
+    
 
-    #With a streamlit expander
-    with st.expander("Document Similarity Search"):
-        #Find the relevant chunks
-        for i, doc in enumerate(response["context"]):
-            st.write(doc.metadata)
-            st.write("---------------------------------------------------------")
+        #With a streamlit expander
+        with st.expander("Document Similarity Search"):
+            #Find the relevant chunks
+            for i, doc in enumerate(response["context"]):
+                st.write(doc.metadata)
+                st.write("---------------------------------------------------------")
+    except:
+        st.write("I am unable to answer that question at this time.")
 
