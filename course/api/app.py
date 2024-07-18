@@ -9,12 +9,14 @@ from langchain_community.llms import Ollama
 
 from dotenv import load_dotenv
 
+from langchain_core.output_parsers import StrOutputParser
 
 
 import os
 from langchain_groq import ChatGroq
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.runnables import RunnablePassthrough, RunnableParallel
 from langchain.chains.retrieval import create_retrieval_chain
 from langchain.embeddings import OllamaEmbeddings
 from langchain_chroma import Chroma
@@ -47,7 +49,11 @@ app=FastAPI(
 
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
-db3 = Chroma(persist_directory="./chroma_db",embedding_function=embeddings)
+db3 = Chroma(persist_directory="../chroma_db copy",embedding_function=embeddings)
+
+# with open("D:/VARLAB/langchain_tutorial1/course/transcriptions_embeddings_json.pkl","rb") as f:
+#     db3=pickle.load(f)
+
 
 metadata_field_info = [
     AttributeInfo(
@@ -70,7 +76,7 @@ retriever = SelfQueryRetriever.from_llm(
     db3,
     document_content_description,
     metadata_field_info,
-    search_kwargs={"k": 10},
+    search_kwargs={"k": 3},
 )
 
 
@@ -87,8 +93,9 @@ prompt = ChatPromptTemplate.from_template(
 )
 
 document_chain = create_stuff_documents_chain(llm,prompt)
-# retriever = vectors.as_retriever()
+# retriever = db3.as_retriever()
 retriever_chain = create_retrieval_chain(retriever,document_chain)
+entry_point_chain=RunnableParallel({"context":retriever,"question":RunnablePassthrough()})
 
 # if prompt:
 #     start= time.process_time()
@@ -105,7 +112,7 @@ retriever_chain = create_retrieval_chain(retriever,document_chain)
 
 add_routes(
     app,
-    retriever_chain,
+    entry_point_chain|prompt|llm|StrOutputParser(),
     path="/chat"
 )
 
