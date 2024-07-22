@@ -97,18 +97,6 @@ document_chain = create_stuff_documents_chain(llm,prompt)
 retriever_chain = create_retrieval_chain(retriever,document_chain)
 entry_point_chain=RunnableParallel({"context":retriever,"question":RunnablePassthrough()})
 
-# if prompt:
-#     start= time.process_time()
-#     response = retriever_chain.invoke({"input":prompt})
-#     print("Response Time: ",time.process_time()-start)
-#     st.write(response['answer'])
-
-    # #With a streamlit expander
-    # with st.expander("Document Similarity Search"):
-    #     #Find the relevant chunks
-    #     for i, doc in enumerate(response["context"]):
-    #         st.write(doc.metadata)
-    #         st.write("---------------------------------------------------------")
 
 add_routes(
     app,

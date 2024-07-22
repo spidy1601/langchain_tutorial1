@@ -7,7 +7,7 @@ import streamlit as st
 
 #     return response.json()['output']['content']
 
-def get_ollama_response(input_text):
+def get_CourseGPT_response(input_text):
     response=requests.post(
     "http://localhost:7000/chat/invoke",
     json={'input':input_text})
@@ -24,4 +24,4 @@ input_text=st.text_input("Ask question related to the course")
 #     st.write(get_openai_response(input_text))
 
 if input_text:
-    st.write(get_ollama_response(input_text))
+    st.write(get_CourseGPT_response(input_text))
