@@ -9,7 +9,7 @@ import streamlit as st
 
 def get_CourseGPT_response(input_text):
     response=requests.post(
-    "http://localhost:7000/chat/invoke",
+    "http://10.144.122.125:7000/chat/invoke",
     json={'input':input_text})
 
     return response.json()['output']

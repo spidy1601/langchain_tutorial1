@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from langchain.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from langserve import add_routes
@@ -43,10 +44,13 @@ app=FastAPI(
     description="API Server for Course Chat"
 )
 
-##load the Groq API key
 
-
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
 db3 = Chroma(persist_directory="./chroma_db copy",embedding_function=embeddings)
@@ -107,4 +111,4 @@ add_routes(
 )
 
 if __name__=="__main__":
-    uvicorn.run(app,host="localhost",port=7000)
+    uvicorn.run(app,host="10.144.122.125",port=7000)
