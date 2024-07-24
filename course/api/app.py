@@ -49,7 +49,7 @@ app=FastAPI(
 
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
-db3 = Chroma(persist_directory="../chroma_db copy",embedding_function=embeddings)
+db3 = Chroma(persist_directory="./chroma_db copy",embedding_function=embeddings)
 
 # with open("D:/VARLAB/langchain_tutorial1/course/transcriptions_embeddings_json.pkl","rb") as f:
 #     db3=pickle.load(f)
@@ -76,7 +76,7 @@ retriever = SelfQueryRetriever.from_llm(
     db3,
     document_content_description,
     metadata_field_info,
-    search_kwargs={"k": 3},
+    search_kwargs={"k": 15},
 )
 
 
@@ -95,8 +95,10 @@ prompt = ChatPromptTemplate.from_template(
 document_chain = create_stuff_documents_chain(llm,prompt)
 # retriever = db3.as_retriever()
 retriever_chain = create_retrieval_chain(retriever,document_chain)
-entry_point_chain=RunnableParallel({"context":retriever,"question":RunnablePassthrough()})
-
+try:
+    entry_point_chain=RunnableParallel({"context":retriever,"question":RunnablePassthrough()})
+except:
+    entry_point_chain="No Context"
 
 add_routes(
     app,

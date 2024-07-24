@@ -12,7 +12,7 @@ def get_CourseGPT_response(input_text):
     "http://localhost:7000/chat/invoke",
     json={'input':input_text})
 
-    return response.json()
+    return response.json()['output']
 
 ## streamlit framework
 
