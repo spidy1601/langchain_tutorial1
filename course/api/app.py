@@ -44,13 +44,23 @@ app=FastAPI(
     description="API Server for Course Chat"
 )
 
+# List of allowed origins (i.e., frontend URLs that can make requests to this backend)
+origins = [
 
+    "http://localhost:4200", 
+    "http://10.144.113.132:7000",
+
+]
+ 
 app.add_middleware(
     CORSMiddleware,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=origins,  # Allows specified origins to make requests
+    allow_credentials=True,  # Allows cookies to be included in requests
+    allow_methods=["*"],  # Allows all HTTP methods
+    allow_headers=["*"],  # Allows all headers
 )
+
+ 
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
 db3 = Chroma(persist_directory="./chroma_db copy",embedding_function=embeddings)
@@ -111,4 +121,4 @@ add_routes(
 )
 
 if __name__=="__main__":
-    uvicorn.run(app,host="10.144.122.125",port=7000)
+    uvicorn.run(app,host="10.144.113.132",port=7000)

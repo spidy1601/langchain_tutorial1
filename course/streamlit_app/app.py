@@ -129,6 +129,7 @@ def response_generator():
         time.sleep(0.05)
 
 st.title("Course GPT")
+st.write("course > MGMT2024")
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -152,6 +153,6 @@ if prompt := st.chat_input("Ask me anything related to the course."):
         response = st.write_stream(response_generator())
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
-st.write(st.session_state['store'])
+# st.write(st.session_state['store'])
 
 
