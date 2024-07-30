@@ -119,7 +119,7 @@ app=FastAPI(
 origins = [
 
     "http://localhost:4200", 
-    "http://10.144.113.132:7000",
+    "http://10.144.114.239:7000",
 
 ]
  
@@ -152,4 +152,4 @@ async def query(request: QueryRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="10.144.113.132", port=7000)
+    uvicorn.run(app, host="10.144.114.239", port=7000)
