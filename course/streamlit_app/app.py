@@ -39,7 +39,7 @@ LANGCHAIN_PROJECT="Conestoga_FAQ"
 
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
-db3 = Chroma(persist_directory="./chroma_db copy",embedding_function=embeddings)
+db3 = Chroma(persist_directory="./chroma_db copy",embedding_function=embeddings,client_settings=Settings(is_persistent=True))
 
 metadata_field_info = [
     AttributeInfo(
