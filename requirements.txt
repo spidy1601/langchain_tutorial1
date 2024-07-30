@@ -77,7 +77,6 @@ langchain-chroma==0.1.2
 langchain-community==0.2.7
 langchain-core==0.2.12
 langchain-groq==0.1.5
-langchain-objectbox==0.1.0
 langchain-openai==0.1.7
 langchain-text-splitters==0.2.1
 langchainhub==0.1.20
