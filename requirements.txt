@@ -140,7 +140,6 @@ pyreadline3==3.4.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.9
-pywin32
 PyYAML==6.0.1
 pyzmq==26.0.3
 qdrant-client==1.10.0
