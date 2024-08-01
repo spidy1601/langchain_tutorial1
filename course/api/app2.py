@@ -137,7 +137,8 @@ class QueryRequest(BaseModel):
     session_id: str
 
 class QueryResponse(BaseModel):
-    response: str
+    answer: str
+    source: list
 
 @app.post("/query", response_model=QueryResponse)
 async def query(request: QueryRequest):
@@ -145,11 +146,22 @@ async def query(request: QueryRequest):
         response = conversational_rag_chain.invoke(
             {"input": request.prompt},
             config={"configurable": {"session_id": request.session_id}}
-        )["answer"]
-        return QueryResponse(response=response)
+        )
+
+        topic_set=set()
+        final_sources=[]
+        for con in response["context"]:
+            topic_set.add(con.metadata["topic"])
+        if len(topic_set)<=3:
+            for topic in topic_set:
+                final_sources.append(topic)
+        else:
+            final_sources = list(topic_set[:3])
+
+        return QueryResponse(answer=response["answer"],source=final_sources)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="10.144.114.239", port=7000)
+    uvicorn.run(app, host="192.168.0.192", port=7000)
